@@ -1,3 +1,13 @@
-<page id="achar_vela" bg_image="">
-  <agent id="titulo" x="center" y="center" text="Página achar_vela" color="white" font-size="24" />
+<page 
+  id="achar_vela" bg_image="download_11_.jpg">
+  <agent id="titulo" x="center" y="center" text="Você encontra uma vela preta sob o altar, mas decide não acende-la"
+    color="white"
+    font-size="30" />
+  <agent
+    id="prox3"
+    text="Ler Próxima Carta"
+    x="center"
+    y="500"
+    on_click="goToPage('')"/>
+    
 </page>
