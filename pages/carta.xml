@@ -18,7 +18,7 @@
     text="Esperar até o pôr do sol"
     x="center" 
     y=" 450"
-    on_click="goToPage('pordosol')"
+    on_click="goToPage('porsol')"
     />
  <agent
    id="op3"
