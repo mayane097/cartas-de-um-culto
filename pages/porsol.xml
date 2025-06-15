@@ -1,4 +1,4 @@
-<page id="pordosol" bg_image="download_9_.jpg">
+<page id="porsol" bg_image="download_9_.jpg">
   <agent id="texto" 
     x="center" y="center"
     text="O símbolo brilha ao pôr do sol. Você toca-o.Um sussurro ecoa: ''Ele acordou...'' " color="white" font-size="24" />
