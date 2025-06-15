@@ -1,0 +1,3 @@
+<page id="sacristia_agora" bg_color="black">
+  <agent id="titulo" x="center" y="center" text="Página sacristia_agora" color="white" font-size="24" />
+</page>
