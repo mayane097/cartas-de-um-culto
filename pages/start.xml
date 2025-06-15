@@ -1,19 +1,20 @@
-<page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
+<page id="start" bg_image="download_4_.jpg" bg_music="osts-vilo.mp3">
   <agent
-    id="teste"
-    text="Hello World"
+    id="intro"
+    text="Você encontrou uma caixa antiga escondida atrás da parede da sacristia. Dentro, há seis cartas, todas endereçadas a você."
     color="white"
     x="center"
     y="center"
-    font-size="70"
+    font-size="35"
   />
 
   <agent
-    id="next_page_text"
-    text="Proxima Pagina"
+    id="ler1"
+    color="white"
+    text="Ler Primeira Carta"
     animation="glitch"
     y="480"
-    x="640"
-    on_click="goToPage('middle')"
+    x="360"
+    on_click="goToPage('carta')"
   />
 </page>
