@@ -7,7 +7,7 @@
     color="black"
     x="center"
     y="410"
-    on_click="goToPage('achar_vela')"/>
+    on_click="goToPage('')"/>
 
 
   <agent 
@@ -16,6 +16,6 @@
     color="black"
     x="center"
     y="490"
-    on_click="goToPage('acender_vela')" />
+    on_click="goToPaage('')" />
 
   </page>
