@@ -1,3 +1,28 @@
-<page id="carta2" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página carta2" color="white" font-size="24" />
-</page>
+<page id="carta2" bg_image="download_7_.jpg" >
+  <agent id="texto2" x="center" y="250" text="Se encontrar a vela preta, não acenda. Ela não apagará..." color="black" font-size="30" />
+
+  <agent 
+    id="op4"
+    text="Procurar a vela preta e não acender"
+    color="black"
+    x="center"
+    y="410"
+    on_click="goToPage()"/>
+
+   <agent 
+    id="op5"
+    text="Perguntar ao Padre"
+    color="black"
+    x="center"
+    y="450"
+    on_click="goToPage()" />
+
+  <agent 
+    id="op6"
+    text="Procurar a vela preta e acender"
+    color="black"
+    x="center"
+    y="490"
+    on_click="goToPage()" />
+
+  </page>
