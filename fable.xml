@@ -4,16 +4,13 @@
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
 
-   <start/>
-<middle/>
+  <start/>
+  <middle />
   <ending />
-
   <carta />
   <sacristia_agora />
   <sacristia_por_do_sol />
   <ignorar1 />
   <carta2 />
 
-
-  
 </fable>
