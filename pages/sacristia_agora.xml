@@ -1,9 +1,9 @@
-<page id="sacristia_agora" bg_image="" >
+<page id="sacristia_agora" bg_image="download_4_.jpg" >
   <agent
     id="texto2"
     text="Você vai até a sacristia. O espelho está quieto. Nada acontece, mas você sente que algo observa."
     color="white"
     x="center" y="center"
     font-size="30" />
-  <agent id="proxima" text="Ler a próxima carta" x="center" y="500" on_click="goToPage('carta2')" />
+  <agent id="proxima" text="Ler a próxima carta" x="center" y="500" on_click="goToPage('goToPage('carta2')')" />
 </page>
