@@ -3,7 +3,7 @@
 
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
-
+  <porsol/>
   <start/>
   <middle />
   <ending />
@@ -11,6 +11,6 @@
   <sacristia_agora />
   <ignorar1 />
   <carta2 />
-  <pordosol/>
+  
 
 </fable>
