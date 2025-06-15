@@ -1,3 +1,30 @@
-<page id="carta" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página carta" color="white" font-size="24" />
+<page id="carta" bg_image="download_7_.jpg">
+  <agent id="texto1"
+    x="center" y="95"
+    text="'Atrás do espelho da sacristia, há um símbolo. Toque-o ao pôr do sol. A cruz que eles carregam...está virada para baixo'"
+    color="black"
+    font-size="35" />
+  <agent
+    id="op1"
+    text="Ir à sacristia agora"
+    color="black"
+    x="center"
+    y="410"
+    on_click="goToPage('sacristia_agora')" />
+
+  <agent
+    id="op2"
+    color="black"
+    text="Esperar até o pôr do sol"
+    x="center" 
+    y=" 450"
+    on_click="goToPage('sacristia_por_do_sol')"
+    />
+ <agent
+   id="op3"
+   text="Ignorar a carta"
+   x="center"
+   y="490"
+   on_click="goToPage('ignorar1')"
+   />
 </page>
