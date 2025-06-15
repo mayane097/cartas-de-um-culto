@@ -18,7 +18,7 @@
     text="Esperar até o pôr do sol"
     x="center" 
     y=" 450"
-    on_click="goToPage('sacristia_por_do_sol')"
+    on_click="goToPage('pordosol')"
     />
  <agent
    id="op3"
