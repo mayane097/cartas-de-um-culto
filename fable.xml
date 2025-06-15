@@ -3,7 +3,6 @@
 
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
-  <porsol/>
   <start/>
   <middle />
   <ending />
