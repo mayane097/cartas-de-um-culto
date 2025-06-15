@@ -1,0 +1,3 @@
+<page id="achar_vela" bg_color="black">
+  <agent id="titulo" x="center" y="center" text="Página achar_vela" color="white" font-size="24" />
+</page>
