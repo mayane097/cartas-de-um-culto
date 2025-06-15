@@ -1,0 +1,3 @@
+<page id="sacristia_por_do_sol" bg_color="black">
+  <agent id="titulo" x="center" y="center" text="Página sacristia_por_do_sol" color="white" font-size="24" />
+</page>
