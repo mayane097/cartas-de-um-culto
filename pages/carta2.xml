@@ -9,13 +9,6 @@
     y="410"
     on_click="goToPage()"/>
 
-   <agent 
-    id="op5"
-    text="Perguntar ao Padre"
-    color="black"
-    x="center"
-    y="450"
-    on_click="goToPage()" />
 
   <agent 
     id="op6"
