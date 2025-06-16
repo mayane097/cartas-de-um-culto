@@ -17,6 +17,7 @@
  <agent
    id="op3"
    text="Ignorar a carta"
+   color="black"
    x="center"
    y="490"
    on_click="goToPage('ignorar1')"
