@@ -1,5 +1,5 @@
 <page id="acender_vela" bg_image="_grymora_tarot_simpatia_e_feiti_o_de_limpeza_forte_para_afastar_inveja.jpg">
-  <agent id="texto7" x="center" y="center" text="Ao acendê-la, um chiado se espalha. As luzes piscam. Uma voz infantil diz: 'Você me chamou?'" color="white" font-size="30" />
+  <agent id="texto7" x="center" y="center" text="Ao acendê-la, um chiado se espalha. As luzes piscam. Uma voz infantil diz: 'Você me chamou?'" color="red" font-size="30" />
 
  <agent
     id="prox4"
