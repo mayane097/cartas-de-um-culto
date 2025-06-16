@@ -8,6 +8,6 @@
     text="Ler Próxima Carta"
     x="center"
     y="500"
-    on_click="goToPage('')"/>
+    on_click="goToPage('goToPage('carta3')')"/>
     
 </page>
