@@ -1,3 +1,21 @@
-<page id="carta3" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página carta3" color="white" font-size="24" />
+<page id="carta3" bg_image="download_7_.jpg">
+  <agent
+    id="texto3"
+    x="center" y="center" 
+    text="Leia Lamentações 3:10. Diga a última palavra do versículo em voz alta, três vezes"
+    color="black" 
+    font-size="30" />
+
+  <agent 
+      id="op7"
+    text=""
+    color="black"
+    x="center"
+    y="490"
+    on_click="goToPaage('')" />
+
+
+
+
+  
 </page>
