@@ -8,7 +8,7 @@
     color="white"
     x="center"
     y="500"
-    on_click="goToPage('goToPage('carta4')')"
+    on_click="goToPage('')"
     />
     
   </page>
