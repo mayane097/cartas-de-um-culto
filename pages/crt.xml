@@ -9,11 +9,18 @@
   />
   <agent
     id="op8"
-    text="Acender uma vela"
+    text=" Acender uma vela"
     color="black"
     x="center"
     y="490"
     on_click="goToPage('')"
   />
-  <agent id="" />
+  <agent
+    id="op9"
+    text="Se virar devagar"
+    color="black"
+    x="center"
+    y="420"
+    on_click="goToPage('')"
+  />
 </page>
