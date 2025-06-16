@@ -12,7 +12,7 @@
     color="black"
     x="center"
     y="490"
-    on_click="goToPaage('')" />
+    on_click="goToPaage('goToPage('procurar')')" />
 
     <agent 
     id="op8"
