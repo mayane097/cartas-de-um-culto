@@ -1,0 +1,3 @@
+<page id="acender_final" bg_color="black">
+  <agent id="titulo" x="center" y="center" text="Página acender_final" color="white" font-size="24" />
+</page>
