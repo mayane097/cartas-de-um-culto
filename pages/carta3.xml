@@ -8,11 +8,22 @@
 
   <agent 
       id="op7"
-    text=""
+    text=" Procurar Bíblia e Dizer Palavra"
     color="black"
     x="center"
     y="490"
     on_click="goToPaage('')" />
+
+    <agent 
+    id="op8"
+    text="ignorar o ritual"
+    color="black"
+    x="center"
+    y="410"
+    on_click="goToPage('')"/>
+
+    
+    />
 
 
 
