@@ -1,3 +1,14 @@
-<page id="procurar" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página procurar" color="white" font-size="24" />
-</page>
+<page id="procurar" bg_image="download_12_.jpg">
+  <agent id="texto" x="center" y="center" text="Você encontra uma bíblia marcada. O versículo fala de um leão em emboscada. Com palavra final :'espreita'.
+ Você diz: 'espreita, espreita, espreita'. As velas se apagam. Alguém respira perto do seu pescoço   "  color="white" font-size="24" />
+
+  <agent 
+    id="prox3"
+    text="Ler Próxima Carta"
+    color="white"
+    x="center"
+    y="500"
+    on_click="goToPage()"
+    />
+    
+  </page>
