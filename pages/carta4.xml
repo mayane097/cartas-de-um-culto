@@ -1,3 +1,17 @@
 <page id="carta4" bg_image="download_7_.jpg" >
-  <agent id="titulo" x="center" y="center" text="" color="black" font-size="30" />
+  <agent id="titulo" x="center" y="center" text="As estátuas mudaram. O sino toca sem uma corda. Aquele que antes sussurrava, agora fala com você. Ele está atrás de você..." color="black" font-size="30" />
+   <agent 
+      id="op8"
+    text=" Acender uma vela"
+    color="black"
+    x="center"
+    y="490"
+    on_click="goToPage"() />
+    <agent 
+      id="op9"
+    text="Se virar devagar "
+    color="black"
+    x="center"
+    y="420"
+    on_click="goToPage"() />
 </page>
