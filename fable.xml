@@ -3,16 +3,14 @@
 
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
-  <start/>
-  <carta/>
-  <sacristia_agora/>
-  <ignorar1/>
-  <carta2/>
-  <achar_vela/>
-  <acender_vela/>
-  <carta3/>
-  <procurar/>
-  <ignorar3/>
-  
-
+  <start />
+  <carta />
+  <sacristia_agora />
+  <ignorar1 />
+  <carta2 />
+  <achar_vela />
+  <acender_vela />
+  <carta3 />
+  <procurar />
+  <ignorar3 />
 </fable>
