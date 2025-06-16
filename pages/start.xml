@@ -1,7 +1,7 @@
 <page id="start" bg_image="download_4_.jpg" bg_music="">
   <agent
     id="intro"
-    text="Você encontrou uma caixa antiga escondida atrás da parede da sacristia. Dentro, há seis cartas, todas endereçadas a você."
+    text="Você encontrou uma caixa antiga escondida atrás da parede da sacristia. Dentro, há quatro cartas, todas endereçadas a você."
     color="white"
     x="center"
     y="center"
