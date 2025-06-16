@@ -6,6 +6,7 @@
     text="Ler Próxima Carta"
     x="center"
     y="500"
+   color="white"
     on_click="goToPage('carta3')"
    />
 
