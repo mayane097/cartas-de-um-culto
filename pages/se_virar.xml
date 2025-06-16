@@ -1,3 +1,10 @@
-<page id="se_virar" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página se_virar" color="white" font-size="24" />
+<page id="se_virar" bg_image="scary_images.jpg">
+  <agent
+    id="titulo"
+    x="center"
+    y="center"
+    text="Você se vira, tudo escurece. Uma última frase antes de tudo acabar:'Você o viu. Agora, ele pode ver você também...'"
+    color="white"
+    font-size="30"
+  />
 </page>
