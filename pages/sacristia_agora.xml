@@ -1,7 +1,7 @@
 <page id="sacristia_agora" bg_image="download_4_.jpg" >
   <agent
     id="texto2"
-    text="Você toca-o ao pôr do sol. O símbolo brilha e um sussuro ecoa:'Ele acordou'"
+    text="Você toca-o ao pôr do sol. O símbolo brilha e um sussuro ecoa:'Ele acordou...'"
     color="white"
     x="center" y="center"
     font-size="30" />
