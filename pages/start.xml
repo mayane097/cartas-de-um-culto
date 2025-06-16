@@ -12,7 +12,6 @@
     id="ler1"
     color="white"
     text="Ler Primeira Carta"
-    animation="glitch"
     y="480"
     x="360"
     on_click="goToPage('carta')"
