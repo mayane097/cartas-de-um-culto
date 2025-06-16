@@ -1,3 +1,10 @@
 <page id="acender_final" bg_image="download_14_.jpg">
-  <agent id="titulo" x="center" y="center" text="A chama revela sua sombra...e outra, colada à sua. A vela apaga sozinha....Você ouve passos. Uma presença atrás de você e finalmente tem certeza. É aqui que você vai morrer." color="white" font-size="24" />
+  <agent
+    id="titulo"
+    x="center"
+    y="center"
+    text="A chama revela sua sombra...e outra, colada à sua. A vela apaga sozinha....Você ouve passos. Uma presença atrás de você e finalmente tem certeza. É aqui que você vai morrer."
+    color="white"
+    font-size="30"
+  />
 </page>
