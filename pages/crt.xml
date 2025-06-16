@@ -21,6 +21,6 @@
     color="black"
     x="center"
     y="420"
-    on_click="goToPage('')"
+    on_click="goToPage('se_virar')"
   />
 </page>
