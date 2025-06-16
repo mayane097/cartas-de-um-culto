@@ -9,7 +9,7 @@
   y="500"
   color="white"
   font-size="20"
-  on_click="(goToPage('carta2')" />
+  on_click="goToPage('carta2')" />
 
 
   
