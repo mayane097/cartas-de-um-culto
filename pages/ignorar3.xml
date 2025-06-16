@@ -1,3 +1,11 @@
-<page id="ignorar3" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página ignorar3" color="white" font-size="24" />
+<page id="ignorar3" bg_image="download_13_.jpg">
+  <agent id="txt" x="center" y="center" text="Você sonha com garras. Ao acordar, há arranhões e cortes profundos nos seus braços" color="white" font-size="24" />
+   <agent 
+    id="prox3"
+    text="Ler Próxima Carta"
+    color="white"
+    x="center"
+    y="500"
+    on_click="goToPage('goToPage('carta4')')"
+    />
 </page>
