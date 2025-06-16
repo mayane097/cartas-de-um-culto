@@ -1,3 +1,18 @@
-<page id="crt" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página crt" color="white" font-size="24" />
+<page id="crt" bg_image="download_7_.jpg">
+  <agent
+    id="texto"
+    x="center"
+    y="center"
+    text="As estátuas mudaram. O sino toca sem uma corda. Aquele que antes susurrava, agora fala...Ele está atrás de você."
+    color="black"
+    font-size="30"
+  />
+  <agent
+    id="op8"
+    text="Acender uma vela"
+    color="black"
+    x="center"
+    y="490"
+    on_click="goToPage"
+  />
 </page>
